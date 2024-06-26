@@ -1,0 +1,30 @@
+.Container{
+    min-height:544px;
+    border: 1px solid red;
+    background: url('./../../assets/bg.svg');
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100%;
+}
+.cards{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    margin: 66px 190px 0px 190px;
+    color: white;
+    gap: 15px;
+}
+
+
+@media(max-width: 720px){
+    .cards{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 32px 0px 10px 0px;
+        padding-inline: 10px;
+        gap: 16px;
+    }
+}

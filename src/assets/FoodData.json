@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "category":"Lunch",
+        "pic":"https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title":"Boiled Egge",
+        "desc": "Boiled and soft egge. fresh and spicy",
+        "price":100
+    },
+
+    {
+        "id": 2,
+        "category":"Breakfast",
+        "pic":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title":"Biryani",
+        "desc": "Soft, fresh and spicy biryani. Hydrabadi Biryani",
+        "price":300
+    },
+    {
+        "id": 3,
+        "category":"Dinner",
+        "pic":"https://images.unsplash.com/photo-1574484284002-952d92456975?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title":"Veg. Pulav",
+        "desc": "Veg spicy pulav with souces",
+        "price":80
+    },
+    {
+        "id": 4,
+        "category":"Lunch",
+        "pic":"https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title":"Butter Corma",
+        "desc": "Butter Corma with fresh, spicy souces",
+        "price":250
+    },
+    {
+        "id": 5,
+        "category":"Dinner",
+        "pic":"https://images.unsplash.com/photo-1539136788836-5699e78bfc75?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title":"Pavbhaji",
+        "desc": "Mix pavbhaji fresh and spicy",
+        "price":280
+    },
+    {
+        "id": 6,
+        "category":"Dinner",
+        "pic":"https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title":"Pulav",
+        "desc": "Mix pulav fresh and spicy",
+        "price":120
+    },
+    {
+        "id": 7,
+        "category":"Breakfast",
+        "pic":"https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title":"Bread",
+        "desc": "Mix Bread with garlic",
+        "price":125
+    },
+    {
+        "id": 8,
+        "category":"Breakfast",
+        "pic":"https://images.unsplash.com/photo-1525351484163-7529414344d8?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title":"Omlet",
+        "desc": "Spicy Amlet with Bread and garlic",
+        "price":150
+    },
+    {
+        "id": 9,
+        "category":"Lunch",
+        "pic":"https://images.unsplash.com/photo-1505576633757-0ac1084af824?q=80&w=1635&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title":"Salad",
+        "desc": "Spicy and hot Salad with garlic",
+        "price":285
+    },
+    {
+        "id": 10,
+        "category":"Lunch",
+        "pic":"https://images.unsplash.com/photo-1608897013039-887f21d8c804?q=80&w=1892&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title":"Noodle",
+        "desc": "Chilly and spycy Noodle for Lunch",
+        "price":220
+    }
+
+]
